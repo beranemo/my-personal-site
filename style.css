@@ -6,6 +6,12 @@
   border: 1px solid #ccc;
 }
 
+#nav {
+  background-color: #ff6600;
+  width: 100%;
+  border: 1px solid red;
+}
+
 #content {
   border: 1px solid blue;
 }
