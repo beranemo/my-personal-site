@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Page Title</title>
+</head>
+
+<style>
+  * {
+    box-sizing: border-box;
+  }
+
+  h2 {
+    color: orange
+  }
+
+  .title-center-gray {
+    background-color: gray;
+    text-align: center;
+    margin: 0px;
+    padding: 2px;
+
+  }
+
+  .content-left-black {
+    background-color: black;
+    color: white;
+    padding: 10px;
+
+  }
+
+  .content-left-green {
+    background-color: black;
+    color: green;
+    padding: 10px;
+  }
+
+  p {
+    margin-bottom: 4px;
+  }
+
+  .light-blue-round {
+    background-color: skyblue;
+    padding: 8px;
+    height: 70px;
+    border-radius: 10px;
+  }
+
+  img {
+    float: left;
+    padding: 10px
+  }
+</style>
+
+<body>
+
+  <h2>安裝 Homebrew 軟件包版本管理器</h2>
+  <p>1) 首先開啓 iTerm2</p>
+  <div class="title-center-gray">Terminal</div>
+  <div class="content-left-black">
+    $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/mastet/install)
+  </div>
+
+  <p>2) 過程中，視窗可能會出現以下指示，要求您按 Return，即 Enter</p>
+  <div class="title-center-gray">Terminal</div>
+  <div class="content-left-green">
+    Press RETURN to continue or any other key to abort
+  </div>
+
+  <p></p>
+  <div class="light-blue-round">
+    <img src="https://imageog.flaticon.com/icons/png/512/12/12136.png" alt="Smiley face" height="55" width="55"> 注意！Homebrew 沒有安裝成功，請先暫停操作回報！沒有 Homebrew 無法正確安裝 Ruby 和 Rails！
+  </div>
+
+
+</body>
+
+</html>
