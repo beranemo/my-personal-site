@@ -34,3 +34,19 @@
   
   display: inline-block;
 }
+
+a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+}
+
+li:hover {
+  border: 1px solid #ff6600;
+  background-color: #fff;
+}
+
+li:hover a {
+  color: #ff6600;
+  font-weight: 800;
+}
