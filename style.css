@@ -54,6 +54,12 @@ li:hover a {
 /* about me */
 
 #my-avatar {
-  border: 1px solid red; /* 標示用，排版完記得拿掉 */
+/*  border: 1px solid red;  標示用，排版完記得拿掉 */
   float: left;
+  margin-right: 20px;
 }
+
+#my-avatar img {
+  width: 200px;
+}
+
