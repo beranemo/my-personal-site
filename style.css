@@ -50,3 +50,10 @@ li:hover a {
   color: #ff6600;
   font-weight: 800;
 }
+
+/* about me */
+
+#my-avatar {
+  border: 1px solid red; /* 標示用，排版完記得拿掉 */
+  float: left;
+}
