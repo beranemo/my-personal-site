@@ -63,3 +63,9 @@ li:hover a {
   width: 200px;
 }
 
+h1 {
+  margin-bottom: 0;
+}
+h3 {
+  margin: 0;
+}
