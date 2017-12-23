@@ -81,5 +81,18 @@ th, td {
 
 td {
   color: gray;
-  padding-left: 10px;
+  padding-left: 10px; 
+}
+
+.item {
+  position: relative;
+}
+
+.item-info {
+  border: 1px solid red; /* 標示用，排版完記得拿掉 */
+  background-color: rgba(255, 255, 255, .8);
+  
+  position: absolute;
+  top: 0;
+  left: 0;
 }
