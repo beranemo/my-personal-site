@@ -22,7 +22,13 @@
   margin: 0 auto;
 }
 
-#about, #my-work, #contact-me {
+#about h1 {
+  margin-bottom: 0;
+  text-align: left;
+}
+
+#my-work-gallery {
+    text-align: center;
 }
 
 .menu li {
@@ -69,6 +75,7 @@ li:hover a {
 
 h1 {
   margin-bottom: 0;
+  text-align: center;
 }
 h3 {
   margin: 0;
@@ -167,4 +174,8 @@ form.contact-form{
 hr.bar {
   border: 2px solid #ff6600;
   width: 80px;
+}
+
+.menu {
+  float: right;
 }
