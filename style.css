@@ -87,6 +87,8 @@ td {
 .item {
   position: relative;
   max-width: 30%;
+  display: inline-block;
+  margin-bottom: 10px;
 }
 
 .item img {
