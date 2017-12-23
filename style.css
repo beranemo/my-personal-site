@@ -125,3 +125,19 @@ form.contact-form{
   width: 50%;
   margin: 0 auto;
 }
+
+.form-row {
+  margin-bottom: 15px;
+}
+
+.form-row input, .form-row textarea {
+  border-radius: 3px;
+  width: 100%;
+  border: 1px solid #DCD9DC;
+  padding: 7px; 
+}
+
+.form-row textarea {
+  resize: none;
+  height: 4em;
+}
