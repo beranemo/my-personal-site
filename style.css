@@ -14,10 +14,15 @@
 
 #content {
   border: 1px solid blue;
+  position: relative;
+  top: 78px;
+  padding: 15px;
 }
 
 .container {
   border: 1px solid gray;
+  width: 800px;
+  margin: 0 auto;
 }
 
 #about, #my-work, #contact-me {
