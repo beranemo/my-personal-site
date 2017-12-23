@@ -170,3 +170,7 @@ form.contact-form{
 .form-row button:active {
   background-color: #40c745;
 }
+
+#content > .container > div {
+  padding: 78px 0;
+}
