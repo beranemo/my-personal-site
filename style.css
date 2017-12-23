@@ -5,7 +5,6 @@
 #nav {
   background-color: coral;
   width: 100%;
-  border: 1px solid red;
   position: fixed;
   top: 0;
   left: 0;
@@ -13,14 +12,12 @@
 }
 
 #content {
-  border: 1px solid blue;
   position: relative;
   top: 78px;
   padding: 15px;
 }
 
 .container {
-  border: 1px solid gray;
   width: 800px;
   margin: 0 auto;
 }
@@ -62,7 +59,6 @@ li:hover a {
 /* about me */
 
 #my-avatar {
-/*  border: 1px solid red;  標示用，排版完記得拿掉 */
   float: left;
   margin-right: 20px;
 }
@@ -104,7 +100,6 @@ td {
 }
 
 .item-info {
-  border: 1px solid red; /* 標示用，排版完記得拿掉 */
   background-color: rgba(255, 255, 255, .8);
   
   position: absolute;
@@ -125,12 +120,7 @@ td {
   display: block;
 }
 
-#contact-me {
-  border: 1px solid green; /* 標示用，排版完記得拿掉 */
-}
-
 form.contact-form{
-  border: 1px solid red; /* 標示用，排版完記得拿掉 */
   width: 50%;
   margin: 0 auto;
 }
