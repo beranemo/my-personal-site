@@ -164,3 +164,7 @@ form.contact-form{
 #content > .container > div {
   padding: 78px 0;
 }
+hr.bar {
+  border: 2px solid #ff6600;
+  width: 80px;
+}
