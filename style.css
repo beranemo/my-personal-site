@@ -144,8 +144,10 @@ form.contact-form{
 }
 
 .form-row textarea {
+  font-size: 12px;
   resize: none;
-  height: 4em;
+  height: 82px;
+
 }
 
 .form-row button {
