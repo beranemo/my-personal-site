@@ -196,6 +196,15 @@ hr.bar {
     width: auto; /* 自動適應螢幕大小 */
   }
   
+  .menu-button {
+    float: right;
+    font-size: 25px;
+    line-height: 40px;
+    color: white;
+    background: transparent;
+    padding: 0 15px;
+    border: 0;
+  }
   /*
     往下繼續手機版 css code
   */
