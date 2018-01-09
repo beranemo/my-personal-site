@@ -245,6 +245,11 @@ hr.bar {
     display: block;
     margin: 15px auto;
   }
+  
+  .item {
+    max-width: 100%;
+  }
+  
   /*
     往下繼續手機版 css code
   */
