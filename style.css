@@ -215,6 +215,10 @@ hr.bar {
     height: 40px;
   }
   
+  .menu-button-checkbox:checked ~ .menu {
+    display: block;
+  }
+  
   .menu {
     display: none;
     margin-top: 0;
