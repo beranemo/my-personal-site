@@ -250,6 +250,10 @@ hr.bar {
     max-width: 100%;
   }
   
+  form.contact-form {
+    width: 80%;
+  }
+  
   /*
     往下繼續手機版 css code
   */
