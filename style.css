@@ -207,6 +207,14 @@ hr.bar {
     border: 0;
   }
   
+  .menu-button-checkbox {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 55px;
+    height: 40px;
+  }
+  
   .menu {
     margin-top: 0;
     padding-left: 0;
