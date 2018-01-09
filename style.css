@@ -237,6 +237,14 @@ hr.bar {
     border-radius: 0;
   }
   
+  #my-avatar {
+    width: 100%; 
+  }
+
+  #my-avatar img {
+    display: block;
+    margin: 15px auto;
+  }
   /*
     往下繼續手機版 css code
   */
