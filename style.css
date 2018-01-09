@@ -213,6 +213,7 @@ hr.bar {
     right: 0;
     width: 55px;
     height: 40px;
+    opacity: 0;
   }
   
   .menu-button-checkbox:checked ~ .menu {
