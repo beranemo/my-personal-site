@@ -184,9 +184,13 @@ hr.bar {
 
 /* 假設 1024 px 以下的都為 mobile */
 @media screen and (max-width: 1023px) {
-
+  
+  .container {
+    width: auto; /* 自動適應螢幕大小 */
+  }
+  
   /*
-    手機版的 css 都寫在這邊
-  */   
-
+    往下繼續手機版 css code
+  */
+  
 }
